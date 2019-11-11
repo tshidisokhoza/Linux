@@ -1,0 +1,98 @@
+163  ls
+  164  pwd
+  165  mkdir NewDirectory
+  166  mkdir workspace
+  167  cd workspace
+  168  ls
+  169  touch README.md
+  170  ls
+  171  cp REDME.md CHANGELOG.md
+  172  cp README.MD CHANGELOG.MD
+  173  cp README.md CHANGELOG.md
+  174  touch excersice.md
+  175  rm excercise
+  176  rm excercise.md
+  177  touch excercise.md /tmp
+  178  ls
+  179  mv exercise /tmp
+  180  mv excercise /tmp
+  181  mdirk /tmp
+  182  mkdir /tmp
+  183  mv excercise.md /tmp
+  184  ..cd
+  185  cd..
+  186  .cd
+  187  ../
+  188  ./
+  189  cd /tmp
+  190  ls
+  191  cd workspace
+  192  cd ..
+  193  rm /tmp/excercise.md
+  194  touch umuzi.md recruit.md cohort.md
+  195  sudo touch umuzi.md recruit.md cohorts.md
+  196  cat > umuzi.md
+  197  cd ~/workspace/
+  198  ls
+  199  touch umuzi.md recruits.md cohort.md
+  200  cat > umuzi.md
+  201  cat umuzi.md
+  202  cat > recruits.md
+  203  cat > cohort.md
+  204  cat cohort.md recruits.md umuzi.md
+  205  cat recruits.md umuzi.md cohort.md summary.md
+  206  sudo apt install openjdk-11-jdk
+  207  mkdir helloworld.java
+  208  ls | grep helloworld
+  209  javac helloworld.java
+  210  ls | grep helloworld
+  211  java helloworld
+  212  sudo snap install intellij-idea-community --classic
+  213  sudo apt install intellij-idea-community --classic
+  214  sudo apt install intellij-idea-community
+  215  cd workspace
+  216  ls
+  217  cat umuzi.md recruit.md cohort.md >summary.md
+  218  ls
+  219  cat umuzi.md recruits.md cohort.md >summary.md
+  220  cat >>summary.md
+  221  locate umuzi
+  222  ls
+  223  cd ..
+  224  locate umuzi
+  225  locate umuzi > search_result.md
+  226  cd workspace
+  227  cd ..
+  228  cd Documents
+  229  touch pad.md
+  230  cd desktop
+  231  cd ..
+  232  cd Desktop
+  233  mkdir Work
+  234  cd ..
+  235  cd Documents/
+  236  cp pad.md pad_copy.md
+  237  locate updatedb
+  238  cd .
+  239  cd ..
+  240  locate pad_copy.md
+  241  cd -1
+  242  locate* pdf
+  243  find ~ -name\*.pdf
+  244  find * .pdf
+  245  find ~ -name \ "*pdf"
+  246  sudo find ~ -name \ "*pdf"
+  247  ls -l
+  248  nao --v
+  249  sudo apt install nano
+  250  nano my bio.md
+  251  mkdir my_files && mv my_bio.mdmkdir my_files && mv my_bio.md
+  252  mkdir my_files && mv my_bio.md
+  253  mv my_bio.md my_files
+  254  mkdir my_files
+  255  pwd
+  256  ls
+  257  touch my_bio.md
+  258  mv my_bio.md > my_files/
+  259  cd my_files/ | tee mv my_bio.md
+  260  history
